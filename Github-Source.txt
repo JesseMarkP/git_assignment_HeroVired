@@ -1,1 +1,5 @@
+Project Source:
 https://github.com/JesseMarkP/git_assignment_HeroVired
+
+Project 2: LFS Source
+https://github.com/JesseMarkP/git_assignment_HeroVired/tree/lfs
