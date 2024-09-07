@@ -23,7 +23,7 @@ bash
 git lfs track "*.pdf"
 
 
-This command tells Git LFS to track all .bin files in your repository.
+This command tells Git LFS to track all .pdf files in your repository.
 
 ### 3. Add Files to Repository
 Now add the large binary file to the repository using Git commands:
