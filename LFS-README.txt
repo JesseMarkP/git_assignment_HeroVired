@@ -1,15 +1,6 @@
 step-by-step guide to integrating Git LFS for handling large binary files:
 
 ### 1. Install Git LFS
-If you don’t have Git LFS installed, follow these steps:
-- *MacOS*: Use Homebrew to install Git LFS:
-  bash
-  brew install git-lfs
-  
-- *Linux*: Use package managers like apt or yum:
-  bash
-  sudo apt install git-lfs
-  
 - *Windows*: Download and install Git LFS from the official website: [Git LFS](https://git-lfs.github.com/).
 
 Once installed, initialize Git LFS for your repository:
